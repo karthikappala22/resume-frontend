@@ -1,0 +1,70 @@
+/* Page */
+.edit-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+/* Section Card */
+.section {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.section h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 6px;
+}
+
+/* Inputs */
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0 12px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+/* Buttons */
+button {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #125ea9;
+}
+
+/* Lists */
+.item {
+  margin-bottom: 10px;
+}
+
+.item ul {
+  margin-top: 5px;
+}
+
+/* Actions */
+.download-btn {
+  background-color: #2e7d32;
+}
+
+.download-btn:hover {
+  background-color: #1b5e20;
+}
